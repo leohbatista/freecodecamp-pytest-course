@@ -1,6 +1,6 @@
-# freeCodeCamp pytest course
+# _freeCodeCamp_ pytest course
 
-Demo project built on freeCodeCamp "Testing in Python with Pytest" course.
+Demo project built on _freeCodeCamp_ "Testing in Python with Pytest" course.
 
 - [Article](https://www.freecodecamp.org/news/testing-in-python-with-pytest/)
 - [YouTube Video](https://www.youtube.com/watch?v=cHYq1MRoyI0)
